@@ -5914,9 +5914,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 	<Manifest>
 		<Name>Legacy Charm Costs</Name>
 		<Description>A mod that reverts Quick slash and Flukenest to their older notch cost (2 notches). Offers the option to make the changes persistent on specific saves after disabling it.</Description>
-		<Version>1.0.0.0</Version>
-		<Link SHA256="13d142587c2a494756560822960170bd8f2bc87e80ce07a16cb92993ee1dd199">
-			<![CDATA[https://github.com/Arwangha/LegacyCharmCosts/releases/download/v1.0.0.0/Legacy.Charm.Costs.zip]]>
+		<Version>1.0.0.1</Version>
+		<Link SHA256="cc0e7157d0d938629e59eb8318598a1f07c7d1b04c5a52f855e07a9eda0c36b5">
+			<![CDATA[https://github.com/Arwangha/LegacyCharmCosts/releases/download/v1.0.0.1/Legacy.Charm.Costs.zip]]>
 		</Link>
 		<Dependencies />
 		<Repository>
