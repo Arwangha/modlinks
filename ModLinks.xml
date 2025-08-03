@@ -9944,12 +9944,12 @@ Enjoy!</Description>
             <Repository>
                 <![CDATA[https://github.com/Arwangha/LessFlashingLights]]>
             </Repository>
-            <Tags>
-                <Tag>Utility</Tag>
-            </Tags>
             <Issues>
                 <![CDATA[https://github.com/Arwangha/LessFlashingLights/issues]]>
             </Issues>
+            <Tags>
+                <Tag>Utility</Tag>
+            </Tags>
             <Authors>
                 <Author>Wangha</Author>
             </Authors>
